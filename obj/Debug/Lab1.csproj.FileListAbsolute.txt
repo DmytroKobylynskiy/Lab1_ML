@@ -1,0 +1,7 @@
+C:\Users\kobyl\Source\Repos\KMeansPlus\KMeansPlus\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+C:\Users\kobyl\Source\Repos\KMeansPlus\KMeansPlus\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\kobyl\Source\Repos\KMeansPlus\KMeansPlus\bin\Debug\Lab1.exe.config
+C:\Users\kobyl\Source\Repos\KMeansPlus\KMeansPlus\bin\Debug\Lab1.exe
+C:\Users\kobyl\Source\Repos\KMeansPlus\KMeansPlus\bin\Debug\Lab1.pdb
+C:\Users\kobyl\Source\Repos\KMeansPlus\KMeansPlus\obj\Debug\Lab1.exe
+C:\Users\kobyl\Source\Repos\KMeansPlus\KMeansPlus\obj\Debug\Lab1.pdb

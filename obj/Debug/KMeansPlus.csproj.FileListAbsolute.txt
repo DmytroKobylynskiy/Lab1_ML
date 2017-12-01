@@ -1,0 +1,7 @@
+c:\users\kobyl\Source\Repos\KMeansPlus\KMeansPlus\bin\Debug\KMeansPlus.exe.config
+c:\users\kobyl\Source\Repos\KMeansPlus\KMeansPlus\bin\Debug\KMeansPlus.exe
+c:\users\kobyl\Source\Repos\KMeansPlus\KMeansPlus\bin\Debug\KMeansPlus.pdb
+c:\users\kobyl\Source\Repos\KMeansPlus\KMeansPlus\obj\Debug\KMeansPlus.csprojResolveAssemblyReference.cache
+c:\users\kobyl\Source\Repos\KMeansPlus\KMeansPlus\obj\Debug\KMeansPlus.csproj.CoreCompileInputs.cache
+c:\users\kobyl\Source\Repos\KMeansPlus\KMeansPlus\obj\Debug\KMeansPlus.exe
+c:\users\kobyl\Source\Repos\KMeansPlus\KMeansPlus\obj\Debug\KMeansPlus.pdb
